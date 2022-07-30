@@ -4,7 +4,7 @@ get indian telegram account otp.  premium tool for stole otp amd get any account
 this tooade by using python 3
 
 for installation==
-just got to script directory and type command
+just got to script directory then extract the zip file and then use termux  and got to script directory and  type command
 
      ## for linux ##
      
